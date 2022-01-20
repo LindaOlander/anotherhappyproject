@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anotherhappyproject/static/css/main.33efa743.css",
+    "main.js": "/anotherhappyproject/static/js/main.3421a640.js",
+    "static/js/787.af3c1cfc.chunk.js": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js",
+    "index.html": "/anotherhappyproject/index.html",
+    "main.33efa743.css.map": "/anotherhappyproject/static/css/main.33efa743.css.map",
+    "main.3421a640.js.map": "/anotherhappyproject/static/js/main.3421a640.js.map",
+    "787.af3c1cfc.chunk.js.map": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33efa743.css",
+    "static/js/main.3421a640.js"
+  ]
+}
