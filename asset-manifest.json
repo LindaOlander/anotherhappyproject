@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/anotherhappyproject/static/css/main.fcfb7c8e.css",
-    "main.js": "/anotherhappyproject/static/js/main.5a8ea067.js",
+    "main.css": "/anotherhappyproject/static/css/main.81a6837d.css",
+    "main.js": "/anotherhappyproject/static/js/main.2b92fcbc.js",
     "static/js/787.af3c1cfc.chunk.js": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js",
+    "static/media/AHP.png": "/anotherhappyproject/static/media/AHP.306331828af439e093f8.png",
     "index.html": "/anotherhappyproject/index.html",
-    "main.fcfb7c8e.css.map": "/anotherhappyproject/static/css/main.fcfb7c8e.css.map",
-    "main.5a8ea067.js.map": "/anotherhappyproject/static/js/main.5a8ea067.js.map",
+    "main.81a6837d.css.map": "/anotherhappyproject/static/css/main.81a6837d.css.map",
+    "main.2b92fcbc.js.map": "/anotherhappyproject/static/js/main.2b92fcbc.js.map",
     "787.af3c1cfc.chunk.js.map": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcfb7c8e.css",
-    "static/js/main.5a8ea067.js"
+    "static/css/main.81a6837d.css",
+    "static/js/main.2b92fcbc.js"
   ]
 }
