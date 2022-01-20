@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/anotherhappyproject/static/css/main.81a6837d.css",
-    "main.js": "/anotherhappyproject/static/js/main.2b92fcbc.js",
+    "main.css": "/anotherhappyproject/static/css/main.ace6fd49.css",
+    "main.js": "/anotherhappyproject/static/js/main.86c9ffdf.js",
     "static/js/787.af3c1cfc.chunk.js": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js",
+    "static/media/AHP-rund.png": "/anotherhappyproject/static/media/AHP-rund.2f571cabe6142b711ffe.png",
+    "static/media/AHP-rund-vit.png": "/anotherhappyproject/static/media/AHP-rund-vit.cb81843cf3557480ac43.png",
     "static/media/AHP.png": "/anotherhappyproject/static/media/AHP.306331828af439e093f8.png",
     "index.html": "/anotherhappyproject/index.html",
-    "main.81a6837d.css.map": "/anotherhappyproject/static/css/main.81a6837d.css.map",
-    "main.2b92fcbc.js.map": "/anotherhappyproject/static/js/main.2b92fcbc.js.map",
+    "main.ace6fd49.css.map": "/anotherhappyproject/static/css/main.ace6fd49.css.map",
+    "main.86c9ffdf.js.map": "/anotherhappyproject/static/js/main.86c9ffdf.js.map",
     "787.af3c1cfc.chunk.js.map": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81a6837d.css",
-    "static/js/main.2b92fcbc.js"
+    "static/css/main.ace6fd49.css",
+    "static/js/main.86c9ffdf.js"
   ]
 }
