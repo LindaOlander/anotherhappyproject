@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/anotherhappyproject/static/css/main.8afd2c56.css",
-    "main.js": "/anotherhappyproject/static/js/main.86c9ffdf.js",
-    "static/js/787.af3c1cfc.chunk.js": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js",
-    "static/media/AHP-rund.png": "/anotherhappyproject/static/media/AHP-rund.2f571cabe6142b711ffe.png",
-    "static/media/AHP-rund-vit.png": "/anotherhappyproject/static/media/AHP-rund-vit.cb81843cf3557480ac43.png",
-    "static/media/AHP.png": "/anotherhappyproject/static/media/AHP.306331828af439e093f8.png",
-    "index.html": "/anotherhappyproject/index.html",
-    "main.8afd2c56.css.map": "/anotherhappyproject/static/css/main.8afd2c56.css.map",
-    "main.86c9ffdf.js.map": "/anotherhappyproject/static/js/main.86c9ffdf.js.map",
-    "787.af3c1cfc.chunk.js.map": "/anotherhappyproject/static/js/787.af3c1cfc.chunk.js.map"
+    "main.css": "/weddingsbynina/static/css/main.073c9b0a.css",
+    "main.js": "/weddingsbynina/static/js/main.d530f0b4.js",
+    "static/js/787.e3c7739f.chunk.js": "/weddingsbynina/static/js/787.e3c7739f.chunk.js",
+    "index.html": "/weddingsbynina/index.html",
+    "main.073c9b0a.css.map": "/weddingsbynina/static/css/main.073c9b0a.css.map",
+    "main.d530f0b4.js.map": "/weddingsbynina/static/js/main.d530f0b4.js.map",
+    "787.e3c7739f.chunk.js.map": "/weddingsbynina/static/js/787.e3c7739f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8afd2c56.css",
-    "static/js/main.86c9ffdf.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d530f0b4.js"
   ]
 }
